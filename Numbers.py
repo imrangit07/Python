@@ -68,3 +68,18 @@
 # print(int("0o100",8))
 # print(int("0x40",16))
 # print(int("0b1000000",2))
+
+
+# import random
+
+# l =['imran', 'ali','sajjad', 'ahmad']
+
+# print(random.randint(1,10))
+# print(random.choice(l))
+# print(random.shuffle(l))
+
+
+print(0.1+ 0.1+ 0.1 - 0.3)
+from decimal import Decimal
+
+print(Decimal('0.1') + Decimal('0.1') + Decimal('0.1') - Decimal('0.3'))
