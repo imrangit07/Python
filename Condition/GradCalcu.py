@@ -1,5 +1,9 @@
 
-score =79
+score =792
+
+if score>=101:
+    print("Please verify your grade again")
+    exit()
 
 if score>=90:
     grade = 'A'
